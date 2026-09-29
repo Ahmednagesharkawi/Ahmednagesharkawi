@@ -38,8 +38,8 @@ Here are the primary technologies and tools I use to bring ideas to life:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 💻 Featured Projects
-* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Ahmednagesharkawi/Admin-Dashboard)] · [[Live Demo](https://...)]
-* **E-Commerce Platform:** High-performance store with modern UX and responsive layout. [[Repo Link](https://github.com/Frontend-Training-Team/Ecommerce-Online-Store)] · [[Live Demo](lamsa-store-git-store-final-backup-ahmed-nage-sharkawi.vercel.app)]
+* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Frontend-Training-Team/Admin-Dashboard-Online-Store)] · [[Live Demo](https://...)]
+* **E-Commerce Platform:** High-performance store with modern UX and responsive layout. [[Repo Link](https://github.com/Frontend-Training-Team/Ecommerce-Online-Store)] · [[Live Demo](https://lamsa-store-git-store-final-backup-ahmed-nage-sharkawi.vercel.app/)]
 
 ## 🌟 Leadership, Teamwork & Lessons Learned
 
