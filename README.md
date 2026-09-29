@@ -1,4 +1,4 @@
-[# Hi there, I'm Ahmed Nage Sharkawi 👋
+# Hi there, I'm Ahmed Nage Sharkawi 👋
 
 ## 👨‍💻 Who Am I?
 I am a dedicated **Computer Science Student** and a passionate **Full-Stack Web Developer** based in Cairo, Egypt. Driven by curiosity and a relentless desire to learn, I thrive on turning complex problems into clean, efficient, and user-centric digital solutions. 
@@ -38,7 +38,7 @@ Here are the primary technologies and tools I use to bring ideas to life:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 💻 Featured Projects
-* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Frontend-Training-Team/Admin-Dashboard-Online-Store)] · [[Live Demo](https://...)]
+* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Ahmednagesharkawi/Admin-Dashboard)] · [[Live Demo](https://...)]
 * **E-Commerce Platform:** High-performance store with modern UX and responsive layout. [[Repo Link](https://github.com/Frontend-Training-Team/Ecommerce-Online-Store)] · [[Live Demo](https://lamsa-store-git-store-final-backup-ahmed-nage-sharkawi.vercel.app/)]
 
 ## 🌟 Leadership, Teamwork & Lessons Learned
@@ -63,4 +63,3 @@ I am always open to discussing web development, collaborating on exciting projec
 * 📧 **Email:** [ahmednage2024@gmail.com](mailto:ahmednage2024@gmail.com)
 * 💼 **LinkedIn:** [in/drstone2024](https://www.linkedin.com/in/drstone2024)
 * 📸 **Instagram:** [@ahmednsharkawi](https://www.instagram.com/ahmednsharkawi)
-](https://github.com/Frontend-Training-Team/Admin-Dashboard-Online-Store.git)
