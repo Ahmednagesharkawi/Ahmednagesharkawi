@@ -17,8 +17,6 @@ Through this project, I am actively applying **2026 software engineering standar
 ## 🛠️ Tech Stack & Tools
 Here are the primary technologies and tools I use to bring ideas to life:
 
-## 🛠️ Tech Stack & Tools
-
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,7 +36,8 @@ Here are the primary technologies and tools I use to bring ideas to life:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 💻 Featured Projects
-* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Ahmednagesharkawi/Admin-Dashboard)] · [[Live Demo](https://...)]
+* **Admin Dashboard:** Built with React & Tailwind CSS. Features centralized API handling and clean role-based architecture. [[Repo Link](https://github.com/Frontend-Training-Team/Admin-Dashboard-Online-Store
+)] · [[Live Demo](https://...)]
 * **E-Commerce Platform:** High-performance store with modern UX and responsive layout. [[Repo Link](https://github.com/Frontend-Training-Team/Ecommerce-Online-Store)] · [[Live Demo](https://lamsa-store-git-store-final-backup-ahmed-nage-sharkawi.vercel.app/)]
 
 ## 🌟 Leadership, Teamwork & Lessons Learned
